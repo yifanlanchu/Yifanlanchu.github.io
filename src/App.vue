@@ -84,7 +84,7 @@ const navItems = [
             </p>
 
             <div class="contact-links">
-              <a href="mailto:your-email@example.com">
+              <a href="mailto:qinyumao07@163.com">
                 Email
               </a>
 
@@ -396,10 +396,10 @@ const navItems = [
         </p>
 
         <a
-          href="mailto:your-email@example.com"
+          href="mailto:qinyumao07@163.com"
           class="email-link"
         >
-          your-email@example.com
+          qinyumao07@163.com
         </a>
 
       </section>
